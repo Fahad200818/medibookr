@@ -1,0 +1,39 @@
+{
+  "count": 3,
+  "limit": 100,
+  "results": [
+    {
+      "specialtyId": "261QM1200X",
+      "specialty": {
+        "id": 125,
+        "specialtyId": "261QM1200X",
+        "level_0": "Ambulatory Health Care Facilities",
+        "level_1": "Clinic/Center",
+        "level_2": "Magnetic Resonance Imaging (MRI)",
+        "level_3": null
+      }
+    },
+    {
+      "specialtyId": "261QR0200X",
+      "specialty": {
+        "id": 129,
+        "specialtyId": "261QR0200X",
+        "level_0": "Ambulatory Health Care Facilities",
+        "level_1": "Clinic/Center",
+        "level_2": "Radiology",
+        "level_3": null
+      }
+    },
+    {
+      "specialtyId": "261QR0208X",
+      "specialty": {
+        "id": 132,
+        "specialtyId": "261QR0208X",
+        "level_0": "Ambulatory Health Care Facilities",
+        "level_1": "Clinic/Center",
+        "level_2": "Radiology - Mobile",
+        "level_3": null
+      }
+    }
+  ]
+}

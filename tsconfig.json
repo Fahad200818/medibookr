@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "jsx": "react-native",
+    "lib": [
+      "es6"
+    ],
+    "module": "es6",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "noImplicitAny": false,
+    "target": "es6",
+    "typeRoots": [
+      "node_modules"
+    ],
+    "baseUrl": "./",
+    "paths": {
+      "@root/App/*": [
+        "App/*"
+      ]
+    }
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "createdWith": "2.1.1",
+  "boilerplate": "empty",
+  "examples": "none",
+  "generators": {
+    "component": "ignite-typescript-boilerplate",
+    "container": "ignite-typescript-boilerplate",
+    "list": "ignite-typescript-boilerplate",
+    "reducers": "ignite-typescript-boilerplate",
+    "saga": "ignite-typescript-boilerplate",
+    "screen": "ignite-typescript-boilerplate",
+    "listview": "ignite-ir-boilerplate",
+    "redux": "ignite-ir-boilerplate"
+  }
+}
